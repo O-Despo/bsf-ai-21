@@ -98,18 +98,24 @@ To make life easier we will use the command line.
 Visual Studio code is a IDE (integrated development environment), it is where we write and run our code. It is like Word for programming.
 
 1. Go to the [Visual Studio site]('https://code.visualstudio.com/Download')
-2. Click the `Windows` button on the site.
+2. Click the `Mac` button on the site.
 3. You should see a pop-up prompting you to save the file click `yes`
-4. Once it has downloaded double click it
-5. A pop up will show us asking you to accept the liceanse terms hit `yes` and click `next`
-6. There should now be a list of options on the screen. If you want a icon on your desktop for VS code check `Create a desktop icon`. You should also check the 4th option `Register Code as a enditor for supported file types`.
-7. Click next
-8. Click install
-9. You should see VS code installing
-10. Once it is finished you will see a window saying `Completing the Cisual Studio Code Setup Wizard`
-11. Click finish
-12. VS code will now launch you can close it. Or if you want see what you can tinker with.
+4. open Finder
+5. Go to the Downloads folder and find the VS code file you just downloaded
+6. double click the file (this will unzip it)
+7. Once it is unzipped drag the VS code application into the `Applications` folder
 
-#### Windows Complete
+#### Mac indows Complete
+
+### Linux
+
+I don't think anyone else is running Linux but if you are I have made scripts to automate the process.
+
+#### Step 1: Run scripts
+
+1. Go to the scripts folder in the folder you are in now. Its path should be `bsf-ai-21/class-prep/scripts`
+2. Run your respective script for your Linux version
+3. You are all section
+
 
 
