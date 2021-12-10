@@ -51,7 +51,7 @@ Visual Studio code is a IDE (integrated development environment), it is where we
 2. Click the `Windows` button on the site.
 3. You should see a pop-up prompting you to save the file click `yes`
 4. Once it has downloaded double click it
-5. A pop up will show us asking you to accept the liceanse terms hit `yes` and click `next`
+5. A pop up will show us asking you to accept the license terms hit `yes` and click `next`
 6. There should now be a list of options on the screen. If you want a icon on your desktop for VS code check `Create a desktop icon`. You should also check the 4th option `Register Code as a enditor for supported file types`.
 7. Click next
 8. Click install
@@ -74,7 +74,7 @@ Note: Although I did my best I do not have a Mac to test this on, so I hope thes
 5. When you see it in finder double click it. A window should open saying `Welcom to the Python Installer`
 6. Click Continue
 7. On the read me page scroll to the bottom and click continue
-8. Click contues on the Lincaense section. This will open a pop-up.
+8. Click continues on the License section. This will open a pop-up.
 9. On the pop-up click agree
 10. Click Install
 11. Enter your password in the pop-up
@@ -105,7 +105,7 @@ Visual Studio code is a IDE (integrated development environment), it is where we
 6. double click the file (this will unzip it)
 7. Once it is unzipped drag the VS code application into the `Applications` folder
 
-#### Mac indows Complete
+#### Mac Complete
 
 ### Linux
 
