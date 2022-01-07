@@ -39,7 +39,7 @@ To make life easier we will use the command line.
 1. Click on the search bar in your task bar and search for "command prompt"
 2. Once the program called "Command Prompt" shows up click on it
 3. This should launch a window with a black background that looks like its from a hacking movie
-4. Click on the window on type in or copy in `pip install tensor-flow numpy matplotlib`
+4. Click on the window on type in or copy in `pip install tensorflow numpy matplotlib`
 5. Hit enter: you should now see progress of the install
 6. It will take a minute or two when it is finished you will see the cursor flashing again
 
@@ -89,7 +89,7 @@ To make life easier we will use the command line.
 1. Hit `Command + Space` and search for `Terminal`
 2. Hit enter
 3. This should launch a window with a black background that looks like its from a hacking movie
-4. Click on the window and type in or copy in `pip install tensor-flow numpy matplotlib`
+4. Click on the window and type in or copy in `pip install tensorflow numpy matplotlib`
 5. Hit enter: you should now see progress of the install
 6. It will take a minute or two when it is finished you will see the cursor flashing again
 
