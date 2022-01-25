@@ -1,7 +1,7 @@
 # Numpy the absolute basics for beginners
 
-[source](https://numpy.org/doc/stable/user/absolute_beginners.html)
-
+[source-numpy](https://numpy.org/doc/stable/user/absolute_beginners.html)
+[source-w3](https://www.w3schools.com/python/numpy/numpy_copy_vs_view.asp)
 ## Welcome to NP
 
 - **NumPy**: Numerical Python
@@ -253,7 +253,7 @@ print(np.hsplit(x, (3, 4)))
 
 ## Views
 
-- When you derive a array form another is creates a `view` in numpy. This is not new data it rather points to the old data. It is known as a *shallow copy*. If you use the `.copy()` method it creates a new array in memory a *deep copy*. 
+- When you derive a array form another is creates a `view` in Numpy. This is not new data it rather points to the old data. It is known as a *shallow copy*. If you use the `.copy()` method it creates a new array in memory a *deep copy*. 
 
 ```python
 b2 = a.copy()

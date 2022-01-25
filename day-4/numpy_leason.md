@@ -15,7 +15,7 @@ As a matrix is math would be
 arr = np.array([
         [3, 4, 2],
         [1, 3, 1]
-        ]
+        ])
 ```
 
 In code
