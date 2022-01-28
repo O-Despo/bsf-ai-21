@@ -109,7 +109,7 @@ np.concatenate((x, y), axis=0)
 
 ## How to know the shape and size of a array
 
-- `ndarray.ndim`: tell you the number of axes or dimensions
+- `ndarray.ndim`: tells you the number of axes or dimensions
 - `ndarray.size`: total number of elements
 - `ndarray.shape`: returns a tuple of ints each integer representing the number of elements on that axis
 
