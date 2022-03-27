@@ -17,10 +17,11 @@ print(line_data.mean())
 
 #The Mode (the number that apears the most)
 line_data = np.concatenate((np.arange(0,10), np.arange(6,8)))
+print(line_data)
 vals, counts = np.unique(line_data, return_counts=True)
-median = vals[np.nonzero(counts == counts.max())]
+mode = vals[np.nonzero(counts == counts.max())]
 
-# Median
+# Median (one in the middle)
 len_d2 = len(line_data)/2
 
 if len(line_data)%2 == 0:
@@ -28,7 +29,7 @@ if len(line_data)%2 == 0:
 else:
     med = (line_data[math.floor(len_d2) - 1] + line_data[round(len_d2) - 1])/2
 
-print(med)
+print(f"median: {med}")
 
 #Range
 range_line_data = (line_data.min(), line_data.max())
